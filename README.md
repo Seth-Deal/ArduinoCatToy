@@ -19,11 +19,11 @@ This is an automated laser pointer game activated by remote, that she can play w
 
 #### Future Plans:
 
-* Circuit diagram
-* Housing diagram
-* Game mode selection
-..* Manual control mode
-..* Starting position selector
-..* Motion activated mode
+1. Circuit diagram
+1. Housing diagram
+1. Game mode selection
+1. Manual control mode
+   1. Starting position selector
+   1. Motion activated mode
 
 Eventually I'd like to make a circuit diagram for the Arduino, maybe a diagram of the housing I made for it (or pictures). I'd like to implement a manual control function since the remote has arrow buttons on it (it looks like a tv remote), which would also require a way of selecting game mode (maybe hitting the number and then pound would start the game). I would also like one of the game modes to be motion activated, since I have Arduino compatible motion sensors.
