@@ -17,6 +17,20 @@ This is an automated laser pointer game activated by remote, that she can play w
 
 ***
 
+### Components:
+
+* setup()
+* loop()
+* startGame()
+* playAutoGame()
+* playChime(number of chimes)
+* quiver()
+* returnHome()
+* setColor(color)
+* setColorHelper(red, green, blue)
+* moveServos(delay)
+***
+
 #### Future Plans:
 
 1. Circuit diagram

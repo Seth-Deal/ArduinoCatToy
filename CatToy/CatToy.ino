@@ -308,7 +308,7 @@ void moveServos(int movementDelay) {
   playTime += movementDelay;
 }
 
-char convertHexToChar(char hexVal) {
+char convertHexToChar(unsigned char hexVal) {
   switch (hexVal) {
     case 0xFFA25D:
       return '1';
