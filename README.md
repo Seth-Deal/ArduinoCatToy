@@ -19,6 +19,7 @@ This is an automated laser pointer game activated by remote, that she can play w
 
 ### Components:
 
+##### Code:
 * setup()
 * loop()
 * startGame()
@@ -29,6 +30,17 @@ This is an automated laser pointer game activated by remote, that she can play w
 * setColor(color)
 * setColorHelper(red, green, blue)
 * moveServos(delay)
+
+##### Parts:
+* 2 servos
+* 1 IR Receiver
+	* IR Compatable remote (any kind can work, but you need to replace the hex codes)
+* 1 Multicolor LED
+	* 3 220 ohm resistors for the LED
+* 1 Active Buzzer
+* 1 3v-3w325v Laser
+	* This cat prefers green, so I went with 532nm
+* 1 12mm laser heat sink
 ***
 
 #### Future Plans:
